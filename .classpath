@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/cucumber-core-1.2.4.jar" sourcepath="C:/Users/SHan/.m2/repository/info/cukes/cucumber-core/1.2.4/cucumber-core-1.2.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/cucumber-junit-1.2.4.jar" sourcepath="C:/Users/SHan/.m2/repository/info/cukes/cucumber-junit/1.2.4/cucumber-junit-1.2.4-sources.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/cucumber-reporting-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/cucumber-testng-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/Cucumber/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/testng-5.12.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/stax-api-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/selenium-server-standalone-2.31.0.jar" sourcepath="/Adassist3/libs/selenium-server-standalone-2.31.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/selenide-2.13.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/poi-scratchpad-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/poi-ooxml-schemas-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/poi-ooxml-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/poi-3.8-20120326.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/log4j-1.2.16.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/jxl-report-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/jxl-2.6.10.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/junit-3.8.1.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/json-lib-2.1-jdk15.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/jacob.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/freemarker-util-0.0.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/freemarker-2.3.19.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/ezmorph-1.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/cucumber-testng-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/cucumber-reporting-2.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/cucumber-junit-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/cucumber-java-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/cucumber-html-0.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/cucumber-core-1.2.4.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/commons-logging.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="D:/cucumberAnnie/AutoTesting/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
